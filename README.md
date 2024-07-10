@@ -16,6 +16,10 @@ Este proyecto es una aplicación React que obtiene y muestra datos de Pokémon d
     ```sh
    npm run dev 
 
-### Imagenes del proyecto 
+## Imagenes del proyecto 
 ![Escritorio-app](src/assets/responsive.png)
+##
 ![Escritorio-app](src/assets/escritorio.png)
+
+## Link del Proyecto
+🏆 [PokeRedux](Uhttps://poke-reduxtoolkit.netlify.app/)
