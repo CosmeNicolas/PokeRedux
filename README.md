@@ -1,8 +1,21 @@
-# React + Vite
+# PokeAPI con Redux Toolkit y React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este proyecto es una aplicación React que obtiene y muestra datos de Pokémon desde la PokeAPI. La aplicación utiliza Redux Toolkit para la gestión del estado y Tailwind CSS para los estilos. Los usuarios pueden cargar más Pokémon en lotes de 4 al presionar un botón.
 
-Currently, two official plugins are available:
+## Instalación
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1. Clonar el repositorio:
+   ```sh
+   git clone https://github.com/CosmeNicolas/PokeRedux
+
+2. Instalar dependencias:
+    ```sh
+   npm install 
+
+3. Instalar dependencias:
+    ```sh
+   npm run dev 
+
+### Imagenes del proyecto 
+![Escritorio-app](src/assets/responsive.png)
+![Escritorio-app](src/assets/escritorio.png)
